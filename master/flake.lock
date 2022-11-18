@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "v0_5_2",
-        "lastModified": 1668754746,
-        "narHash": "sha256-aeugeuml/TtlXeANOGzqw1CyNXgC1lpu/BOsGdVBue0=",
+        "lastModified": 1668776054,
+        "narHash": "sha256-zniWg34cYRgh3lCAy/cKoZWV9p6hu+GZkIXhE5zMNuY=",
         "owner": "nim-nix-pkgs",
         "repo": "pgxcrown",
-        "rev": "c3f2fc4a5ec6f454187dcc9e42abff5c600f13a4",
+        "rev": "c8441f431520ffe7f19d30396831b1ce89db68b9",
         "type": "github"
       },
       "original": {
